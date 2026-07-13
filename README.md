@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaishnav07i/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vaishnav07i/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishnav07i/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0485-max-consecutive-ones](https://github.com/Vaishnav07i/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Vaishnav07i/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Vaishnav07i/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Vaishnav07i/DSA/tree/master/0881-boats-to-save-people) |
