@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaishnav07i/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vaishnav07i/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishnav07i/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Vaishnav07i/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vaishnav07i/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Vaishnav07i/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Vaishnav07i/DSA/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Vaishnav07i/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vaishnav07i/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vaishnav07i/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Vaishnav07i/DSA/tree/master/0169-majority-element) |
 | [0881-boats-to-save-people](https://github.com/Vaishnav07i/DSA/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vaishnav07i/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Vaishnav07i/DSA/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -118,4 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vaishnav07i/DSA/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vaishnav07i/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vaishnav07i/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vaishnav07i/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
